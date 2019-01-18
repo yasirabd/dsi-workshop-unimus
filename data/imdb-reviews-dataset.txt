@@ -1,0 +1,11 @@
+Download dataset IMDb dari link http://ai.stanford.edu/~amaas/data/sentiment/ dan ekstrak di sini.
+Berikut struktur folder:
+
+- data/
+  - imdb-reviews/
+    - train/
+      - pos/
+      - neg/
+    - test/
+      - pos/
+      - neg/
